@@ -166,8 +166,8 @@ def create_demo():
     """
 
     DESCRIPTION = """# CAT2: 
-    This is a demo for our 'CAT2' [paper](https://github.com/yunlong10/CAT-2).
-    Code is available [here](https://github.com/yunlong10/CAT-2).
+    This is a demo for our 'CAT2' [paper](https://github.com/yoloytang/CAT-V).
+    Code is available [here](https://github.com/yoloytang/CAT-V).
     This demo performs captioning with optional object bounding box annotation.
     """
 
