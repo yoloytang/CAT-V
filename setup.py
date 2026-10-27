@@ -12,7 +12,7 @@ NAME = "CAT-2"
 VERSION = "1.0"
 DESCRIPTION = "Caption Anything in Video: Object-centric Dense Video Captioning with Multimodal Controls"
 URL = "https://github.com/yoloytang/CAT-V"
-AUTHOR = "Tang, Yunlong and Bi, Jing and Hua, Hang and Xiao, Yunzhong and Song, Yizhi and Wang, Teng and Huang, Chao and Feng, Mingqian and Guo, Junjia and Liu, Zhuo and Song, Luchuan and Liang, Susan and Wang, Bingjie and Shimada, Daiki and Vosoughi, Ali and Zhang, Zeliang and Luo, Jiebo and Xu, Chenliang"
+AUTHOR = "Tang, Yolo Y. and Bi, Jing and Hua, Hang and Xiao, Yunzhong and Song, Yizhi and Wang, Teng and Huang, Chao and Feng, Mingqian and Guo, Junjia and Liu, Zhuo and Song, Luchuan and Liang, Susan and Wang, Bingjie and Shimada, Daiki and Vosoughi, Ali and Zhang, Zeliang and Luo, Jiebo and Xu, Chenliang"
 AUTHOR_EMAIL = "yunlong.tang@rochester.edu"
 LICENSE = "Apache 2.0"
 
