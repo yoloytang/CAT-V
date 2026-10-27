@@ -78,7 +78,7 @@ We are also grateful for the following awesome projects our CAT-V arising from:
 ## 👩‍💻 Contributors
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-- [Yunlong Tang](https://yunlong10.github.io/) @ University of Rochester
+- [Yunlong Tang](https://yoloytang.me/) @ University of Rochester
 - [Jing Bi](https://scholar.google.com/citations?user=ZyCYhUkAAAAJ) @ University of Rochester
 - [Chao Huang](https://wikichao.github.io/) @ University of Rochester
 - [Susan Liang](https://liangsusan-git.github.io/) @ University of Rochester
@@ -100,10 +100,10 @@ Our project wouldn't be possible without the contributions of these amazing peop
 
 
 
-<a href="https://github.com/yunlong10/CAT-V/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yunlong10/CAT-V" />
+<a href="https://github.com/yoloytang/CAT-V/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yoloytang/CAT-V" />
 </a>
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yunlong10/CAT-V&type=Date)](https://star-history.com/#yunlong10/CAT-V&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yoloytang/CAT-V&type=Date)](https://star-history.com/#yoloytang/CAT-V&Date)
