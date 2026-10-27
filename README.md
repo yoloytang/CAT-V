@@ -54,7 +54,7 @@ If you find this work useful for your research or applications, please cite usin
 ```bibtex
 @inproceedings{tang2025cat-v,
   title={Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting},
-  author={Tang, Yunlong and Bi, Jing and Hua, Hang and Xiao, Yunzhong and Song, Yizhi and Liu, Pinxin and Huang, Chao and Feng, Mingqian and Guo, Junjia and Liu, Zhuo and Song, Luchuan and Liang, Susan and Shimada, Daiki and Vosoughi, Ali and He, Jinxi and He, Liu and Zhang, Zeliang and Luo, Jiebo and Xu, Chenliang},
+  author={Tang, Yolo Y. and Bi, Jing and Hua, Hang and Xiao, Yunzhong and Song, Yizhi and Liu, Pinxin and Huang, Chao and Feng, Mingqian and Guo, Junjia and Liu, Zhuo and Song, Luchuan and Liang, Susan and Shimada, Daiki and Vosoughi, Ali and He, Jinxi and He, Liu and Zhang, Zeliang and Luo, Jiebo and Xu, Chenliang},
   journel={arXiv},
   year={2025}
 }
@@ -78,7 +78,7 @@ We are also grateful for the following awesome projects our CAT-V arising from:
 ## 👩‍💻 Contributors
 Our project wouldn't be possible without the contributions of these amazing people! Thank you all for making this project better.
 
-- [Yunlong Tang](https://yoloytang.me/) @ University of Rochester
+- [Yolo Y. Tang](https://yoloytang.me/) @ University of Rochester
 - [Jing Bi](https://scholar.google.com/citations?user=ZyCYhUkAAAAJ) @ University of Rochester
 - [Chao Huang](https://wikichao.github.io/) @ University of Rochester
 - [Susan Liang](https://liangsusan-git.github.io/) @ University of Rochester
